@@ -14,7 +14,7 @@
 
 	<groupId>ch.epfl.biop</groupId>
 	<artifactId>sift-align-multichannel</artifactId>
-	<version>0.1.1-SNAPSHOT</version>
+	<version>0.1.1</version>
 
 	<name>Multi Channel SIFT Align Plugin</name>
 	<description>An extension of the Fiji multichannel sift align plugin which handles multiple channels.</description>
