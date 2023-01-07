@@ -1,4 +1,4 @@
-** This plugin is now included in the base repository https://github.com/axtimwalde/mpicbg **
+# ARCHIVED: This plugin is now included in the base repository https://github.com/axtimwalde/mpicbg
 
 This repository extends the Fiji SIFT Align plugin (https://imagej.net/Linear_Stack_Alignment_with_SIFT) in order to process 5D stacks.
 
